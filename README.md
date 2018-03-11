@@ -1,3 +1,3 @@
 # CS224n
-Project of Stanford CS224n. /n 
+Project of Stanford CS224n. <br />
 Have not finished yet...
